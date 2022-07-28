@@ -1,9 +1,12 @@
 {
-  "name": "ws-tcp-bridge",
+  "name": "@mtnbgx/ws-tcp-bridge",
   "version": "1.0.0",
   "description": "Proxy between websocket and tcp servers",
   "bin": {
     "ws-tcp-bridge": "./ws-tcp-bridge"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "dependencies": {
     "optimist": "~0.3.5",

@@ -39,3 +39,6 @@ forwarding port 8080 to 127.0.0.1:8081
 
 
 If you want to have negotiation of the target address consider forwarding to a socks5 proxy
+
+
+> forked from andrewchambers/ws-tcp-bridge
